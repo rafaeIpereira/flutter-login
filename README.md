@@ -1,16 +1,9 @@
-# flutter_project
+# My first flutter project
 
-A new Flutter project.
+A new Flutter project, with the aim of developing a login system, after login it will be forwarded to the main screen which contains an image and text.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/84694194/206367403-59abc6ad-3209-4754-9e24-1ff64a3217ef.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
